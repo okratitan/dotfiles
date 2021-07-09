@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/stephen/code/bread/payments/service/internal/adapter/tenantpolicy'
+let g:netrw_dirhist_4='/home/stephen/code/bread/payments/service/internal/adapter'
+let g:netrw_dirhist_3='/home/stephen/code/bread/payments/service/internal'
+let g:netrw_dirhist_2='/home/stephen/code/bread/payments/service'
+let g:netrw_dirhist_1='/home/stephen/code/bread/payments'
+let g:netrw_dirhist_0='/home/stephen/code/bread/payments/service/tests/integration'
+let g:netrw_dirhist_9='/home/stephen/code/bread/payments/service/tests'
+let g:netrw_dirhist_8='/home/stephen/code/bread/payments/service'
+let g:netrw_dirhist_7='/home/stephen/code/bread/payments/service/tests/integration'
+let g:netrw_dirhist_6='/home/stephen/code/bread/payments/service/tests'
